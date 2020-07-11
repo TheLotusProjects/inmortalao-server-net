@@ -1,0 +1,11 @@
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\bin\Debug\Server.exe.config
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.DAO.dll
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.ODBCTool.dll
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\bin\Debug\Server.exe.config
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.DAO.dll
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\bin\Debug\Server.exe.config
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\obj\Debug\Interop.DAO.dll
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
